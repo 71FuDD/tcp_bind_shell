@@ -6,7 +6,7 @@ To build anything you normally need a foundation, this one being a working C lan
 
 *$ objdump -d tcpbindshellc -M intel*
 
-Output has not been reproduced due to length and the usefulness of wasting blog space.
+Output has not been reproduced due to length and the usefulness of wasting space.
 
 Note:
 Socket code is among the most standard of code to be found on the internet and it seldom differs, I would be loathe to claim all code in this post as my own as it is based off research and examples found in places too numerous to mention, my feet are most definitely planted on the shoulders of giants.
